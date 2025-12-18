@@ -23,7 +23,7 @@ Java, C++, Python, C#, Linux, HTML, CSS, and JS are just a few of the programmin
 </p>
 
 <p align="center">
-My goal is to eventually develop an app that can genuinely help people in my community based on their specific needs. Step by step, design by design, and code by code. I’m working toward that vision.
+My goal is to pursue my dreams and make my family proud of me. 
 </p>
 
   </tr>
