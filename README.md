@@ -43,7 +43,7 @@ My goal is to pursue my dreams and make my family proud of me.
   </a>
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/ronn_po?igsh=MXRzemMwMWtxOGJ5dQ==" target="_blank">
+  <a href="https://www.instagram.com/imtyrannosaurus_13/" target="_blank">
     <img 
       alt="instagram" 
       title="Visit my Instagram" 
