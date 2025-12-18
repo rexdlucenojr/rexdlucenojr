@@ -1,5 +1,5 @@
 <h2 align="center">
-  <b>Hello there! I’m Rex D. Luceno Jr.⭐</b>
+  <b>Hello there! I’m Rex D. Luceno Jr.</b>
 </h2>
 
 <h3 align="center">
@@ -59,7 +59,7 @@ My goal is to pursue my dreams and make my family proud of me.
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:rhonelearns019@gmail.com" target="_blank">
+  <a href="https://discord.com/users/1239937925559353344" target="_blank">
     <img 
       alt="gmail" 
       title="Send me an email" 
