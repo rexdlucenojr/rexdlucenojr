@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-<img src= "https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u" />
+<img src= "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1yZG5yZDF3cnFkbGN4YWpnbDYzbDBzdzdqMGIyY3NtMXZ0bmx0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 </p>
 
 <table align="center">
