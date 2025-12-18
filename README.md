@@ -35,7 +35,7 @@ My goal is to pursue my dreams and make my family proud of me.
 <p align="center">
 
   <!-- Facebook -->
-  <a href="https://www.facebook.com/rhone.blaza.14" target="_blank">
+  <a href="https://www.facebook.com/rex.decuan" target="_blank">
     <img 
       alt="facebook" 
       title="Visit my Facebook profile" 
