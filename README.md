@@ -92,7 +92,7 @@ My goal is to pursue my dreams and make my family proud of me.
 </p>
 <p align="center">
   
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=RhoneBlaza&show_icons=true&theme=radical" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rexdlucenojr&show_icons=true&theme=radical" />
 </p>
 
 
