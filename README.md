@@ -51,7 +51,7 @@ My goal is to pursue my dreams and make my family proud of me.
   </a>
 
   <!-- Discord -->
-  <a href="https://discord.com/users/1444480963299115039" target="_blank">
+  <a href="https://discord.com/users/1239937925559353344" target="_blank">
     <img 
       alt="discord" 
       title="Message me on Discord" 
