@@ -59,7 +59,7 @@ My goal is to pursue my dreams and make my family proud of me.
   </a>
 
   <!-- Gmail -->
-  <a href="https://discord.com/users/1239937925559353344" target="_blank">
+  <a href="mailto:lucenorexjr.913@gmail.com" target="_blank">
     <img 
       alt="gmail" 
       title="Send me an email" 
